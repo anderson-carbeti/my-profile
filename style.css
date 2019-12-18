@@ -1,0 +1,67 @@
+body{
+	background-color: rgb(242, 248, 249);
+	font-family: Helvetica, serif;
+	font-size: 18px;
+
+
+}
+	
+
+										
+h1{
+	
+	color: #263f44;
+    font-family: Avenir, serif;
+    font-weight: lighter;
+    text-justify: center;
+    letter-spacing: 10px;
+}
+a:hover{
+	text-decoration: none;
+	color: #d2bf61;
+	 
+}
+a{
+	text-decoration: none;
+	color:rgb(230,230,230);;
+	font-style: bold;
+}
+
+p{
+	text-justify: center;
+	color: #698474;
+}
+
+h2{
+
+	text-justify: center;
+	color: #233567;
+	font-family: 'Montserrat', sans-serif;
+}
+p{
+
+	text-justify: center;
+	color: #315b96;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.container { width: 700px; margin: 40px auto }
+.card-white { background: white;padding: 60px;margin: 20px;box-shadow: 0px 10px 30px rgba(0,0,0,0.1);border-radius: 6px; text-align : center;}
+.list-horizontal { 
+list-style: none;
+padding-left: 0px; }
+.list-horizontal li {
+	display: inline;
+	padding: 10px;
+}
+.list-horizontal i {
+	font-size:50px;}
+
+.img-circle { border-radius: 1100px }
+.btn-green { 
+background-color:#315b96;
+color: white; 
+padding: 15px 20px;
+border-radius: 6px
+}
+#introduction p { margin-bottom : 40px }
